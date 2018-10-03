@@ -1,0 +1,15 @@
+[run]
+source =
+    smartotp
+    tests
+branch = True
+omit =
+    smartotp/cli.py
+
+[report]
+exclude_lines =
+    no cov
+    no qa
+    noqa
+    pragma: no cover
+    if __name__ == .__main__.:
