@@ -20,15 +20,15 @@ setup(
     version=version,
     description='',
     long_description=readme,
-    author='Ashwini Purohit',
-    author_email='ashwinipurohit@yahoo.in',
-    maintainer='Ashwini Purohit',
-    maintainer_email='ashwinipurohit@yahoo.in',
-    url='https://github.com/_/smartotp',
+    author='Ashwini Purohit, Shubhodeep Mukherjee',
+    author_email='support@pytorn.org',
+    maintainer='Ashwini Purohit, Shubhodeep Mukherjee',
+    maintainer_email='support@pytorn.org',
+    url='https://github.com/pytorn/smartotp',
     license='MIT/Apache-2.0',
 
     keywords=[
-        '',
+        'smart otp',
     ],
 
     classifiers=[
